@@ -1,0 +1,17 @@
+{
+  "name": "liuyi-cool-ui",
+  "version": "1.0.2",
+  "description": "",
+  "module": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+ 
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "sass": "^1.66.1"
+  }
+}
